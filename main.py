@@ -7,6 +7,8 @@ Python 3.13, standard library only, no network.
 # keeper: a specific voice, and the punchline turns the idiom
 # "seen the light" into the exit itself. One line, 134 characters —
 # inside the 140-character gate.
+# Revision note (parent pass): re-checked after the local run —
+# the 134-character line is unchanged; this note only records the check.
 import os
 
 TEXT = (
